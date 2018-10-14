@@ -1,4 +1,4 @@
-#Aaron Alexander 101107249
+
 
 SILVER = (101, 115, 131)#Metallic Silver RGB:101,115,131
 BLUE = (43, 84, 126)#Blue Jay RGB:43,84,126
