@@ -1,2 +1,2 @@
 # Projects-In-Python
-Random Projects Completed In Pyhton
+These are the projects I made to learn the basics of programing.
